@@ -22,10 +22,11 @@ At a young age in NYC I was exposed to an incident of human trafficking but I wa
 5. 
 ### Technologies
 Languages used:
-JavaScript
-nodeJS
-ExpressJs
-MongoDB
+JavaScript,
+nodeJS,
+ExpressJs,
+MongoDB,
+and bootstrap
 
 ### What I'll Have to Learn
 I will have to learn how to integrate the google API and add user authentication in the project.
