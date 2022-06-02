@@ -17,7 +17,7 @@ At a young age in NYC I was exposed to an incident of human trafficking but I wa
 ### Features
 1. Users will need to create an account or log in to an existing one to have access to the website.
 2. After logging in, accept the locations permissions and youll be able to see resources (if any) local to your location based of the google API.
-3. Users are able to add their own resource to the database and update the google API. You should see the new pindrop once the page is refreshed.
+3. Users are able to add their own resource to the database and update the google API.Once approved the added pindrop wil be added.
 4. Users to be able to have an area where they can post and chat with other users about getting help / or just support.
 5. 
 ### Technologies
@@ -30,6 +30,9 @@ and bootstrap
 
 ### What I'll Have to Learn
 I will have to learn how to integrate the google API and add user authentication in the project.
+I will have to think of a way to prevent any unwanted actors from submitting unwanted data and a way that also keeps bots from submitting anything to the form.
+I will also have to think about a way to manually upload the resources to the database.
+I Will also have to add a secondary page as a bonus so that you can look for events near you or a blog style chat. 
 
 ### Project Tracker
 https://trello.com/duanerymarowicz/boards
